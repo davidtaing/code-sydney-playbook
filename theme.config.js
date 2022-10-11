@@ -17,12 +17,6 @@ export default {
       <meta httpEquiv="Content-Language" content="en" />
       <meta name="description" content="Code.Sydney Playbook" />
       <meta name="og:description" content="Code.Sydney Playbook" />
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Code.Sydney Playbook" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
       <meta name="apple-mobile-web-app-title" content="Code.Sydney Playbook" />
       <link
         rel="apple-touch-icon"
